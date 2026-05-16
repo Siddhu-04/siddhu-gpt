@@ -1,4 +1,4 @@
-# siddhu-gpt 🤖
+# siddhu-gpt 
 
 > Multi-provider AI CLI assistant. Stream responses from Groq or Ollama right in your terminal.
 
@@ -32,7 +32,7 @@ siddhu-gpt providers                     # check available providers
 
 ## Features
 
-- ⚡ Streaming responses with live Markdown rendering
-- 💾 Persistent sessions (JSON, stored in `~/.siddhu-gpt/`)
-- 🔄 Multi-provider: Groq (cloud, free) + Ollama (local)
-- 🧠 Session summary via LLM
+- Streaming responses with live Markdown rendering
+- Persistent sessions (JSON, stored in `~/.siddhu-gpt/`)
+- Multi-provider: Groq (cloud, free) + Ollama (local)
+- Session summary via LLM
