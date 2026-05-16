@@ -5,7 +5,19 @@
 ## Install
 
 ```bash
-pip install siddhu-gpt or uv run siddhu-gpt --help
+
+Run:-
+siddhu-gpt chat
+siddhu-gpt providers
+siddhu-gpt sessions
+
+or
+
+pip install siddhu-gpt
+
+or
+
+uv run siddhu-gpt --help
 uv run siddhu-gpt chat
 uv run siddhu-gpt providers
 uv run siddhu-gpt sessions
