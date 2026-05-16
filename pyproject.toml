@@ -1,0 +1,18 @@
+[project]
+name = "siddhu-gpt"
+version = "0.1.0"
+description = "Multi-provider AI CLI assistant"
+requires-python = ">=3.10"
+dependencies = [
+    "typer",
+    "rich",
+    "openai",
+    "python-dotenv",
+]
+
+[project.scripts]
+siddhu-gpt = "siddhu_gpt.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
