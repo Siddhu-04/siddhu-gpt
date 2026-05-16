@@ -10,7 +10,7 @@ uv run siddhu-gpt chat
 uv run siddhu-gpt providers
 uv run siddhu-gpt sessions
 
-May require api key.It's free BTW,just login to their website and get api key.Use it,It's that simple.
+May require api key.It's free BTW, just login to their website and get api key. Use it, It's that simple.
 ```
 
 ## Setup
